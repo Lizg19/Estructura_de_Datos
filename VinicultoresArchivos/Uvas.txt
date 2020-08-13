@@ -1,0 +1,12 @@
+ASOCIACION DE VINICULTORES
+	Precio por kilo de uva: 3.64 
+	Tipo de uva: A 
+	Tamaño de uva: 2 
+ 	Precio Inicial: 367.64 $ 
+	Precio Final: 367.94 $ 
+ASOCIACION DE VINICULTORES
+	Precio por kilo de uva: 3.94 
+	Tipo de uva: B 
+	Tamaño de uva: 2 
+ 	Precio Inicial: 177.3 $ 
+	Precio Final: 176.8 $ 
